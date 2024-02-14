@@ -1,6 +1,7 @@
 {
   "name": "valentine",
   "private": true,
+  "homepage": "https://krolik1591.github.io/web3_guard/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
